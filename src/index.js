@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import SingerCategory from './SingerCategory';
+import SingerCategory from './SingerCategory';;
+//import ManageSystem from "./ManageSystem"
 import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(<SingerCategory />, document.getElementById('root'));
